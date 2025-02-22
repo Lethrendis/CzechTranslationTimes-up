@@ -1,0 +1,12 @@
+{
+"times-up.Debug.Name": "Ladění",
+"times-up.Debug.Hint": "Vybere množství zobrazovaného ladění",
+"times-up.TimesUpEnabled.Name": "Povolit Times Up",
+"times-up.TimesUpEnabled.Hint": "Povolí automatické vypršení a úpravy efektů. Změny pasivních efektů toto povolení vyžadují",
+"times-up.EnablePassiveEffects.Name": "Nastavit začátek přenosu efektů",
+"times-up.EnablePassiveEffects.Hint": "Když je povoleno vypršení aktivního efektu, aktualizuje se jeho čas začátku na aktuální čas světa/boje",
+"times-up.UpdatePassiveEffects.Name": "Aktualizovat pasivní efekty",
+"times-up.UpdatePassiveEffects.Hint": "Doba trvání pasivních efektů bude změněna na kola/sekundy, pokud je token v boji (nebo do něj vstoupí), nebo boj opustí. Viz také níže",
+"times-up.MaxRoundsToConvert.Name": "Maximální počet kol pro převod",
+"times-up.MaxRoundsToConvert.Hint": "Pokud je doba trvání v sekundách (zbývající doba pro nepřenášené efekty), pak bude převedena na bojová kola"
+}
