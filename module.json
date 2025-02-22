@@ -1,0 +1,29 @@
+{
+  "id": "czechtranslationtimes-up",
+  "title": "CzechTranslationTimes-up",
+  "version": "1.0.0",
+  "compatibility": {
+    "minimum": "12.331",
+    "verified": "12.331"
+  },
+  "description": "Český překlad modulu Times-up.",
+  "authors": [
+    {
+      "name": "Lethrendis",
+      "email": "michmildub@seznam.cz",
+      "discord": "Lethrendis",
+      "url": "https://github.com/Lethrendis",
+      "flags": {}
+    }
+  ],
+  "languages": [
+    {
+    "lang": "cs",
+    "name": "Čeština",
+    "path": "lang/cs.json"
+  }
+],
+  "url": "https://github.com/Lethrendis/CzechTranslationTimes-up",
+  "manifest": "https://raw.githubusercontent.com/Lethrendis/CzechTranslationTimes-up/main/module.json",
+  "download": "https://github.com/Lethrendis/CzechTranslationTimes-up/archive/refs/heads/main.zip"
+}
