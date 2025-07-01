@@ -10,7 +10,7 @@ Tento modul poskytuje českou lokalizaci pro Times-up verze 11.3.21. Obsahuje p�
 Pro instalaci modulu obvyklým upůsobem můžeš použít následující odkaz ve Foundry VTT:
 
 ```
-https://raw.githubusercontent.com/Lethrendis/CzechTranslationTimes-up/main/module.json
+https://raw.githubusercontent.com/Lethrendis/CzechTranslationTimes-up/Core12/module.json
 ```
 
 ## Autor
